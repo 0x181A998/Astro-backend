@@ -1,0 +1,63 @@
+{
+    "//": "BR Item Shop Config",
+    "daily1": {
+      "itemGrants": [
+        "AthenaDance:EID_Cyclone"
+      ],
+        "price": 500
+    },
+    "daily2": {
+      "itemGrants": [
+        "AthenaPickaxe:Pickaxe_ID_359_CycloneMale"
+      ],
+        "price": 800
+    },
+    "daily3": {
+      "itemGrants": [
+        "AthenaItemWrap:Wrap_018_Magma"
+      ],
+        "price": 500
+    },
+    "daily4": {
+      "itemGrants": [
+        "AthenaCharacter:CID_030_Athena_Commando_M_Halloween"
+      ],
+        "price": 1000
+    },
+    "daily5": {
+      "itemGrants": [
+        "AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace"
+      ],
+        "price": 1000
+    },
+    "daily6": {
+      "itemGrants": [
+        "AthenaDance:EID_Dab"
+      ],
+        "price": 500
+    },    
+    "featured1": {
+      "itemGrants": [
+        "AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"
+      ],
+        "price": 1500
+    },
+    "featured2": {
+      "itemGrants": [
+        "AthenaCharacter:CID_694_Athena_Commando_M_CatBurglar"
+      ],
+        "price": 1500
+    },
+    "featured3": {
+      "itemGrants": [
+        "AthenaPickaxe:Pickaxe_ID_330_HolidayTimeMale"
+      ],
+    "price": 1000
+    },
+    "featured4": {
+      "itemGrants": [
+        "AthenaGlider:Glider_ID_125_Bandolier"
+      ],
+    "price": 1200
+}
+}

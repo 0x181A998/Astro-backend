@@ -1,0 +1,64 @@
+{
+    "Panels": [
+      {
+        "PanelName": "ByEpicWoven",
+        "Pages": [
+          {
+            "results": [
+              {
+                "linkData": {
+                  "namespace": "fn",
+                  "mnemonic": "playlist_defaultsolo",
+                  "linkType": "BR:Playlist",
+                  "active": true,
+                  "disabled": false,
+                  "version": 95,
+                  "moderationStatus": "Unmoderated",
+                  "accountId": "epic",
+                  "creatorName": "Epic",
+                  "descriptionTags": [],
+                  "metadata": {
+                    "image_url": "https://backend.ploosh.dev:2053/assets/Background.png",
+                    "matchmaking": {
+                      "override_playlist": "playlist_defaultsolo"
+                    }
+                  }
+                },
+                "lastVisited": null,
+                "linkCode": "playlist_defaultsolo",
+                "isFavorite": false
+              },
+              {
+                "linkData": {
+                  "namespace": "fn",
+                  "mnemonic": "playlist_low_solo",
+                  "linkType": "BR:Playlist",
+                  "active": true,
+                  "disabled": false,
+                  "version": 95,
+                  "moderationStatus": "Unmoderated",
+                  "accountId": "epic",
+                  "creatorName": "Epic",
+                  "descriptionTags": [],
+                  "metadata": {
+                    "image_url": "https://backend.ploosh.dev:2053/assets/Background.png",
+                    "matchmaking": {
+                      "override_playlist": "playlist_low_solo"
+                    }
+                  }
+                },
+                "lastVisited": null,
+                "linkCode": "playlist_low_solo",
+                "isFavorite": false
+              }
+            ],
+            "hasMore": false
+          }
+        ]
+      }
+    ],
+    "TestCohorts": [
+      "Astro"
+    ],
+    "ModeSets": {}
+  }

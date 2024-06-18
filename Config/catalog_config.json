@@ -1,0 +1,72 @@
+{
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_246_Athena_Commando_F_Grave"
+    ],
+    "price": 1200,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_246_athena_commando_f_grave/icon.png"
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_179_Athena_Commando_F_Scuba"
+    ],
+    "price": 1500,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_179_athena_commando_f_scuba/icon.png"
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaDance:EID_Shaolin"
+    ],
+    "price": 200,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/eid_shaolin/icon.png"
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaDance:EID_CandyDance"
+    ],
+    "price": 500,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/eid_candydance/icon.png"
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_138_Gnome"
+    ],
+    "price": 800,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/pickaxe_id_138_gnome/icon.png"
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_094_SamuraiUltra"
+    ],
+    "price": 800,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/glider_id_094_samuraiultra/icon.png"
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_091_Athena_Commando_M_RedShirt"
+    ],
+    "price": 1200,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_091_athena_commando_m_redshirt/icon.png"
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaCharacter:CID_247_Athena_Commando_M_GuanYu"
+    ],
+    "price": 1500,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_247_athena_commando_m_guanyu/icon.png"
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_Flamingo"
+    ],
+    "price": 1200,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/pickaxe_flamingo/icon.png"
+  },
+  "featured4": {
+    "itemGrants": [
+      "AthenaGlider:Glider_ID_126_Farmer"
+    ],
+    "price": 800,
+    "imageUrl": "https://fortnite-api.com/images/cosmetics/br/glider_id_126_farmer/icon.png"
+  }
+}
